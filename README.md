@@ -1,10 +1,15 @@
 # simple-equation-solver
 
-a packages to solve equations using python notebook base on sympy package
+A package to solve equations using python notebook based on the sympy package
 
 # installation
 ```
 pip install pip install git+https://github.com/nilnil47/jupyter-simple-equation-solver.git
+```
+
+In google colabs installation is possible with:
+```
+!pip install pip install git+https://github.com/nilnil47/jupyter-simple-equation-solver.git
 ```
 
 # how to use
