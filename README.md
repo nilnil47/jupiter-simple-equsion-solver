@@ -4,7 +4,7 @@ a packages to solve equations using python notebook base on sympy package
 
 # installation
 ```
-pip install pip install git+https://github.com/nilnil47/jupiter-simple-equsion-solver.git
+pip install pip install git+https://github.com/nilnil47/jupyter-simple-equation-solver.git
 ```
 
 # how to use
